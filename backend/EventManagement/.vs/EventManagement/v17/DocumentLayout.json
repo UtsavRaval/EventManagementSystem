@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\eventmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\eventmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|d:\\battle duty\\projects\\event management\\be\\eventmanagement\\eventmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACCE75D1-A1BE-48CC-91FE-24D981E48547}|EventManagement.api\\EventManagement.api.csproj|solutionrelative:eventmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\IUserService.cs",
+              "RelativeToolTip": "EventManagement.api\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:03:04.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventManagement.api.csproj",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\EventManagement.api.csproj",
+              "RelativeDocumentMoniker": "EventManagement.api\\EventManagement.api.csproj",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\EventManagement.api.csproj",
+              "RelativeToolTip": "EventManagement.api\\EventManagement.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T17:37:27.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\AuthService.cs",
+              "RelativeToolTip": "EventManagement.api\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:55:49.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Services\\EventService.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\EventService.cs",
+              "RelativeToolTip": "EventManagement.api\\Services\\EventService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:00:16.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EventManagement.api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:24:55.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\DTOs\\EventDto.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\DTOs\\EventDto.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\DTOs\\EventDto.cs",
+              "RelativeToolTip": "EventManagement.api\\DTOs\\EventDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:49:22.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EventManagement.api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:26:41.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Services\\UserService.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\UserService.cs",
+              "RelativeToolTip": "EventManagement.api\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:03:53.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Services\\IEventService.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\IEventService.cs",
+              "RelativeToolTip": "EventManagement.api\\Services\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:58:59.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventManagement.api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:05:05.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EventManagement.api\\appsettings.Development.json",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\appsettings.Development.json",
+              "RelativeToolTip": "EventManagement.api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T17:29:13.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Program.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Program.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Program.cs",
+              "RelativeToolTip": "EventManagement.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:39:55.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EventManagement.api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:52:16.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Services\\IAuthService.cs",
+              "RelativeToolTip": "EventManagement.api\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:55:02.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "EventManagement.api\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:51:12.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\DTOs\\AuthDto.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\DTOs\\AuthDto.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\DTOs\\AuthDto.cs",
+              "RelativeToolTip": "EventManagement.api\\DTOs\\AuthDto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:48:10.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventRegistration.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Models\\EventRegistration.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Models\\EventRegistration.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Models\\EventRegistration.cs",
+              "RelativeToolTip": "EventManagement.api\\Models\\EventRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:46:19.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Models\\Event.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Models\\Event.cs",
+              "RelativeToolTip": "EventManagement.api\\Models\\Event.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:44:59.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "user.cs",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Models\\user.cs",
+              "RelativeDocumentMoniker": "EventManagement.api\\Models\\user.cs",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Models\\user.cs",
+              "RelativeToolTip": "EventManagement.api\\Models\\user.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:42:54.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EventManagement.api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Battle Duty\\Projects\\Event Management\\BE\\EventManagement\\EventManagement.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EventManagement.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T17:34:45.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
