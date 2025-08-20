@@ -1,36 +1,39 @@
-# 🎟 Event Management System
+# Event Management System 🎉
 
-A full-stack **Event Management** app for a seminar hall (Room 121), built with **Angular**, **ASP.NET Core**, and **PostgreSQL**.  
-Includes **JWT auth**, role-based access (Admin/User), registration workflow, and **Admin PDF download** of an event’s details (with attendee list).
-
-## 🚀 Tech Stack
-- **Frontend:** Angular, TypeScript
-- **Backend:** ASP.NET Core Web API (.NET 7/8)
+A full-stack **Event Management System** built with:
+- **Frontend:** Angular
+- **Backend:** ASP.NET Core Web API
 - **Database:** PostgreSQL
-- **Auth:** JWT
-- **Password Hashing:** BCrypt
 
-## 🔑 Features
-### User
-- Register/Login
-- View **today & upcoming** events
-- Register for events
-- See **My Registrations**
+---
 
-### Admin
-- CRUD events (with validation: date in future, start < end, time-conflict checks)
-- View all users
-- View event details & registrations
-- **Download event details as PDF** (event info + registered users)
+## 🚀 Features
 
-## 🗄 Database
-- `Users(Id, Email, PasswordHash, Name, Role, Sem, Branch, EnrollmentNumber, CreatedAt)`
-- `Events(Id, SrNo, EventName, EventDate, StartTime, EndTime, TotalSeats, AvailableSeats, CreatedBy, CreatedAt)`
-- `EventRegistrations(Id, EventId, UserId, RegisteredAt)`
+### 👨‍💼 Admin
+- Create, update, delete events.
+- Manage event seats and registrations.
+- Download **PDF report** of event details with registered user list.
 
-## 🛠 Local Setup
+### 👤 User
+- View upcoming events.
+- Register for events.
+- See personal event registrations.
 
-### 1) Clone
+---
+
+## 🛠️ Tech Stack
+- Angular 18
+- .NET 8 Web API
+- PostgreSQL
+- Entity Framework Core
+- JWT Authentication
+
+---
+
+## 📦 Installation Guide
+
+### 1️⃣ Backend (.NET API)
 ```bash
-git clone https://github.com/<your-username>/EventManagementSystem.git
-cd EventManagementSystem
+cd EventManagement.api
+dotnet restore
+dotnet run
